@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "学生街の喫茶店",
+  "base_artist": "ガロ",
+  "createdAt": "2026-02-11T14:41:39.641870Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "学生街の喫茶店",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/01_学生街の喫茶店_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "学生街の喫茶店",
+      "artist": "ガロ",
+      "has_synced": true,
+      "path": "select/02_学生街の喫茶店_ガロ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "学生街の喫茶店",
+      "artist": "Garo",
+      "has_synced": true,
+      "path": "select/03_学生街の喫茶店_Garo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "学生街の喫茶店",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/04_学生街の喫茶店_V.A..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "学生街の喫茶店",
+      "artist": "V.A.",
+      "has_synced": true,
+      "path": "select/05_学生街の喫茶店_V.A..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "学生街の喫茶店",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/06_学生街の喫茶店_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "学生街の喫茶店",
+      "artist": "Garo",
+      "has_synced": true,
+      "path": "select/07_学生街の喫茶店_Garo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "学生街の喫茶店",
+      "artist": "ガロ",
+      "has_synced": false,
+      "path": "select/pl_01_学生街の喫茶店_ガロ.txt"
+    }
+  ]
+}
